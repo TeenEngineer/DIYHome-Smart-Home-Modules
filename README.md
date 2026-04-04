@@ -1,9 +1,3 @@
-WRITTEN BY CHATGPT, ANY INFORMATION COULD BE FALSE
-
-CHATGPT ORQALI YOZILGAN, MA'LUMOT NOTO'G'RI BO'LISHI MUMKIN
-
-НАПИСАНО С ПОМОЩЬЮ CHATGPT, ИНФОРМАЦИЯ МОЖЕТ БЫТЬ НЕВЕРНА
-
 # DIYHome Smart Home Modules
 
 ## 🇺🇿 O‘zbekcha
@@ -150,6 +144,23 @@ Keyin, modul qayta ishga tushib, Wi-Fi tarmog'ingizga ulanib, DIYHome ilovasida 
 6. DIYHome ilovasida ro‘yxatdan o‘tishda ishlatgan emailingizni yozing.
 7. Tilni tanlang
 8. "Save" tugmasini bosing.
+
+## Modullarni zavod sozlamalariga qaytarish
+
+**Oddiy modul**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/067745e9-30f5-49cd-8135-7477fe3e44a9" />
+
+**TEMP**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/52096952-8e55-4837-ae7f-d33f6af3049f" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c97c405d-965d-41d4-b555-1ab90bc4a3af" />
+
+**HUB**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dca32f9c-75d2-4503-987d-a3635c92133a" />
+
 ---
 
 ## 🇷🇺 Русский
@@ -299,6 +310,21 @@ Hub можно запрограммировать так, чтобы он:
 
 После этого модуль перезагрузится и подключится к Wi-Fi.
 
+## Сброс модулей до заводских настроек
+
+**Обычный модуль**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/067745e9-30f5-49cd-8135-7477fe3e44a9" />
+
+**TEMP**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/52096952-8e55-4837-ae7f-d33f6af3049f" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c97c405d-965d-41d4-b555-1ab90bc4a3af" />
+
+**HUB**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dca32f9c-75d2-4503-987d-a3635c92133a" />
 ---
 
 ## 📜 Лицензия
@@ -470,6 +496,21 @@ After that, the module will restart, connect to your Wi-Fi network, and the sens
 
 After that, the HUB will connect to Wi-Fi.
 
+## Resetting the modules to factory defaults
+
+**Normal module**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/067745e9-30f5-49cd-8135-7477fe3e44a9" />
+
+**TEMP**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/52096952-8e55-4837-ae7f-d33f6af3049f" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c97c405d-965d-41d4-b555-1ab90bc4a3af" />
+
+**HUB**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dca32f9c-75d2-4503-987d-a3635c92133a" />
 ---
 
 ## 📜 License
