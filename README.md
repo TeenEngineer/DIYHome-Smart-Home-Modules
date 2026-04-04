@@ -95,6 +95,61 @@ Bu loyiha quyidagilar uchun yaratilgan:
 ❗ **Xavfsizlik uchun mo‘ljallanmagan!**
 Yong‘in signalizatsiyasi, gaz signalizatsiyasi yoki real xavfsizlik tizimi sifatida ishlatmang.
 
+## DIYHome ilovasida ro'yxatdan o'tish va tizimga kirish
+
+<img width="501" height="1023" alt="image" src="https://github.com/user-attachments/assets/87833d73-2767-4ade-9a5a-1624c222fd2f" />
+
+"DIYHome" ilovasini yuklab olib, shu ekranni ko'rasiz.
+1. Tilni tanlang.
+2. Emailingizni yozing.
+3. Parolingizni yozing.
+4. "Ro'yxatdan o'tish" tugmasini bosing.
+Keyin, siz o'zingizning akkauntingizga kirgan bo'lasiz.
+
+Tizimga kirishda esa siz shunga o‘xshash amallarni bajarasiz.
+
+<img width="483" height="895" alt="image" src="https://github.com/user-attachments/assets/e80b1c35-05a0-4f60-b663-0e7bf2ca3e3e" />
+
+## Modulni Wi-Figa ulash
+❗**Modullarni bittalab ulang!**
+
+<img width="720" height="719" alt="image" src="https://github.com/user-attachments/assets/008cc078-9ed6-42aa-acb8-ae60cf967925" />
+
+1. Modulni yoqing.
+2. "ESP01 Setup" Wi-Fi tarmog'iga "diyhome1" paroli orqali ulaning.
+3. Brauzerga kirib, qidiruv paneliga "192.168.4.1" kiriting.
+4. Sahifa yuklanganda, o‘z Wi-Fi tarmog‘ingiz nomini yozing.
+5. Wi-Fi parolingizni kiriting.
+6. DIYHome ilovasida ro‘yxatdan o‘tishda ishlatgan emailingizni yozing.
+7. Datchik nomiga qarab, uni menyudan tanlang.
+8. "Сохранить" tugmasini bosing.
+Keyin, modul qayta ishga tushib, Wi-Fi tarmog'ingizga ulanib, DIYHome ilovasida datchik haqida ma'lumot chiqadi.
+
+## TEMP modulni Wi-Figa ulash
+
+<img width="502" height="383" alt="image" src="https://github.com/user-attachments/assets/573914ce-614f-4427-a71a-9202ef1c3fd2" />
+
+1. Modulni yoqing.
+2. "TEMP Setup" Wi-Fi tarmog'iga "diyhome1" paroli orqali ulaning.
+3. Brauzerga kirib, qidiruv paneliga "192.168.4.1" kiriting.
+4. Sahifa yuklanganda, o‘z Wi-Fi tarmog‘ingiz nomini yozing.
+5. Wi-Fi parolingizni kiriting.
+6. DIYHome ilovasida ro‘yxatdan o‘tishda ishlatgan emailingizni yozing.
+7. "Save" tugmasini bosing.
+Keyin, modul qayta ishga tushib, Wi-Fi tarmog'ingizga ulanib, DIYHome ilovasida datchik haqida ma'lumot chiqadi.
+
+## HUB ni Wi-Figa ulash
+
+<img width="480" height="737" alt="image" src="https://github.com/user-attachments/assets/079b5762-35d3-4aa9-84cf-3e85e9ccba96" />
+
+1. Modulni yoqing.
+2. "HUB Setup" Wi-Fi tarmog'iga "diyhome1" paroli orqali ulaning.
+3. Brauzerga kirib, qidiruv paneliga "192.168.4.1" kiriting.
+4. Sahifa yuklanganda, o‘z Wi-Fi tarmog‘ingiz nomini yozing.
+5. Wi-Fi parolingizni kiriting.
+6. DIYHome ilovasida ro‘yxatdan o‘tishda ishlatgan emailingizni yozing.
+7. Tilni tanlang
+8. "Save" tugmasini bosing.
 ---
 
 ## 🇷🇺 Русский
@@ -181,11 +236,75 @@ Hub можно запрограммировать так, чтобы он:
 
 ❗ **Не использовать в системах безопасности!**
 
+## Регистрация и вход в приложение DIYHome
+
+<img width="501" height="1023" alt="image" src="https://github.com/user-attachments/assets/87833d73-2767-4ade-9a5a-1624c222fd2f" />
+
+Скачайте приложение DIYHome, после чего вы увидите следующий экран.
+
+1. Выберите язык.
+2. Введите свой email.
+3. Введите пароль.
+4. Нажмите кнопку «Регистрация».
+
+После этого вы войдёте в свой аккаунт.
+
+При входе в систему вам нужно будет выполнить аналогичные действия.
+
+<img width="483" height="895" alt="image" src="https://github.com/user-attachments/assets/e80b1c35-05a0-4f60-b663-0e7bf2ca3e3e" />
+
+## Подключение модуля к Wi-Fi
+
+❗**Подключайте модули по одному!**
+
+<img width="720" height="719" alt="image" src="https://github.com/user-attachments/assets/008cc078-9ed6-42aa-acb8-ae60cf967925" />
+
+1. Включите модуль.
+2. Подключитесь к Wi-Fi сети “ESP01 Setup” с паролем “diyhome1”.
+3. Откройте браузер и введите в адресной строке 192.168.4.1.
+4. После загрузки страницы введите название вашей Wi-Fi сети.
+5. Введите пароль от Wi-Fi.
+6. Введите email, который вы использовали при регистрации в приложении DIYHome.
+7. По названию датчика выберите его в меню.
+8. Нажмите кнопку «Сохранить».
+
+После этого модуль перезагрузится, подключится к вашей Wi-Fi сети, и в приложении DIYHome появится информация о датчике.
+
+## Подключение TEMP модуля к Wi-Fi
+
+<img width="502" height="383" alt="image" src="https://github.com/user-attachments/assets/573914ce-614f-4427-a71a-9202ef1c3fd2" />
+
+1. Включите модуль.
+2. Подключитесь к Wi-Fi сети “TEMP Setup” с паролем “diyhome1”.
+3. Откройте браузер и введите 192.168.4.1.
+4. Введите название вашей Wi-Fi сети.
+5. Введите пароль.
+6. Введите email, использованный при регистрации.
+7. Нажмите кнопку «Save».
+
+После этого модуль перезагрузится, подключится к вашей Wi-Fi сети, и в приложении DIYHome появится информация о датчике.
+
+## Подключение HUB к Wi-Fi
+
+<img width="480" height="737" alt="image" src="https://github.com/user-attachments/assets/079b5762-35d3-4aa9-84cf-3e85e9ccba96" />
+
+1. Включите модуль.
+2. Подключитесь к Wi-Fi сети “HUB Setup” с паролем “diyhome1”.
+3. Откройте браузер и введите 192.168.4.1.
+4. Введите название Wi-Fi сети.
+5. Введите пароль.
+6. Введите email.
+7. Выберите язык.
+8. Нажмите «Save».
+
+После этого модуль перезагрузится и подключится к Wi-Fi.
+
 ---
 
 ## 📜 Лицензия
 
 Исходный код открыт. Подробности см. в файле `LICENSE`.
+⚠️ **При модификации кода, вы не сможете вернуть старый код! Делайте это на свой риск!**
 
 
 # 🇺🇸DIYHome Smart Home Modules
@@ -288,12 +407,76 @@ Do **NOT** use these modules as:
 * Security systems
 * Safety‑critical monitoring devices
 
+## Registration and Login in the DIYHome App
+
+<img width="501" height="1023" alt="image" src="https://github.com/user-attachments/assets/87833d73-2767-4ade-9a5a-1624c222fd2f" />
+
+Download the DIYHome app, and you will see the following screen.
+
+1. Select the language.
+2. Enter your email.
+3. Enter your password.
+4. Click the “Sign Up” button.
+
+After that, you will be logged into your account.
+
+When logging in, you will need to perform similar steps.
+
+<img width="483" height="895" alt="image" src="https://github.com/user-attachments/assets/e80b1c35-05a0-4f60-b663-0e7bf2ca3e3e" />
+
+## Connecting the Module to Wi-Fi
+
+❗**Connect modules one at a time!**
+
+<img width="720" height="719" alt="image" src="https://github.com/user-attachments/assets/008cc078-9ed6-42aa-acb8-ae60cf967925" />
+
+1. Turn on the module.
+2. Connect to the Wi-Fi network “ESP01 Setup” using password “diyhome1”.
+3. Open a browser and enter 192.168.4.1 in the address bar.
+4. After the page loads, enter your Wi-Fi network name.
+5. Enter your Wi-Fi password.
+6. Enter the email you used when registering in the DIYHome app.
+7. Select the sensor from the menu based on its name.
+8. Click the “Сохранить” button.
+
+After that, the module will restart, connect to your Wi-Fi network, and the sensor data will appear in the DIYHome app.
+
+## Connecting the TEMP Module to Wi-Fi
+
+<img width="502" height="383" alt="image" src="https://github.com/user-attachments/assets/573914ce-614f-4427-a71a-9202ef1c3fd2" />
+
+1. Turn on the module.
+2. Connect to “TEMP Setup” Wi-Fi network using password “diyhome1”.
+3. Open a browser and enter 192.168.4.1.
+4. Enter your Wi-Fi network name.
+5. Enter the password.
+6. Enter your registered email.
+7. Click “Save”.
+
+After that, the module will restart, connect to your Wi-Fi network, and the sensor data will appear in the DIYHome app.
+
+## Connecting the HUB to Wi-Fi
+
+<img width="480" height="737" alt="image" src="https://github.com/user-attachments/assets/079b5762-35d3-4aa9-84cf-3e85e9ccba96" />
+
+1. Turn on the module.
+2. Connect to “HUB Setup” Wi-Fi network using password “diyhome1”.
+3. Open a browser and enter 192.168.4.1.
+4. Enter your Wi-Fi name.
+5. Enter the password.
+6. Enter your email.
+7. Select language.
+8. Click “Save”.
+
+After that, the HUB will connect to Wi-Fi.
+
 ---
 
 ## 📜 License
 
 All code in this repository is **open‑sourced**.
 Please check the `LICENSE` file for detailed terms.
+⚠️ **When modified code is uploaded, you won't be able to go back to the previous firmware! Do it at your own risk!**
 
 ---
 
