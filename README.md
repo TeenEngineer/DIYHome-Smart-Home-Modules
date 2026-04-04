@@ -162,6 +162,11 @@ Keyin, modul qayta ishga tushib, Wi-Fi tarmog'ingizga ulanib, DIYHome ilovasida 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dca32f9c-75d2-4503-987d-a3635c92133a" />
 
 ---
+## 📜 Litsenziya
+
+Manba kodi ochiq. Batafsil ma'lumot uchun `LICENSE` fayliga qarang.
+⚠️ **Agar kodni o'zgartirsangiz, eski kodga qayta olmaysiz! Buni o'zingizning xavfingiz ostida bajaring!**
+
 
 ## 🇷🇺 Русский
 
