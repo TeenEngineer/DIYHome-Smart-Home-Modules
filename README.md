@@ -6,7 +6,9 @@
 **The app is only made for Android!**
 
 Iltimos, yuqoridagi "DIYHome.apk" faylni yuklab oling.
+
 Пожалуйста скачайте файл "DIYHome.apk" сверху
+
 Please download the "DIYHome.apk" file above
 
 ## 🇺🇿 O‘zbekcha
