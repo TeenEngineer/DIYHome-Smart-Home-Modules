@@ -6,7 +6,9 @@
 **The app is only made for Android!**
 
 Bu yerda ilovani yuklab oling: [DIYHome.apk](https://github.com/TeenEngineer/DIYHome-Smart-Home-Modules/releases/download/v1.0/DIYHome.apk)
+
 Скачайте приложение тут: [DIYHome.apk](https://github.com/TeenEngineer/DIYHome-Smart-Home-Modules/releases/download/v1.0/DIYHome.apk)
+
 Download the app here: [DIYHome.apk](https://github.com/TeenEngineer/DIYHome-Smart-Home-Modules/releases/download/v1.0/DIYHome.apk)
 
 ## 🇺🇿 O‘zbekcha
