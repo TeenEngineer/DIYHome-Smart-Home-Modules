@@ -2,14 +2,12 @@
 ## Ilova | Приложение | The app
 
 **Ilova faqat Android uchun mo'ljallangan!**
-**Приложение сделано толко для Android!**
+**Приложение сделано только для Android!**
 **The app is only made for Android!**
 
-Iltimos, yuqoridagi "DIYHome.apk" faylni yuklab oling.
-
-Пожалуйста скачайте файл "DIYHome.apk" сверху
-
-Please download the "DIYHome.apk" file above
+Bu yerda ilovani yuklab oling: [DIYHome.apk](https://github.com/TeenEngineer/DIYHome-Smart-Home-Modules/releases/download/v1.0/DIYHome.apk)
+Скачайте приложение тут: [DIYHome.apk](https://github.com/TeenEngineer/DIYHome-Smart-Home-Modules/releases/download/v1.0/DIYHome.apk)
+Download the app here: [DIYHome.apk](https://github.com/TeenEngineer/DIYHome-Smart-Home-Modules/releases/download/v1.0/DIYHome.apk)
 
 ## 🇺🇿 O‘zbekcha
 
